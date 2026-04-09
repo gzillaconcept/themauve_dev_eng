@@ -34,7 +34,8 @@
               <a href="#section1"
                 class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">Info</a>
               <a href="#section5"
-                class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">Contact Us</a>
+                class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">Contact
+                Us</a>
             </div>
           </div>
         </div>
@@ -81,7 +82,7 @@
     <div class="absolute inset-0 flex flex-col items-end justify-center p-6 text-black text-right container mx-auto">
       <h1 class="text-sm font-medium md:text-base lg:text-2xl xl:text-4xl">Food and health</h1>
       <p
-        class="text-[8px] leading-relaxed max-w-[250px] md:max-w-[400px] md:text-xs lg:text-base lg:max-w-[650px] xl:text-xl xl:max-w-[1100px]">
+        class="text-[6px] leading-relaxed max-w-[250px] md:max-w-[400px] md:text-xs lg:text-base lg:max-w-[650px] xl:text-xl xl:max-w-[1100px]">
         silk sericin protein, when used as a food ingredient, contains substances that control cholesterol in the blood
         vessels, break down alcohol in the body, help memory and boost heart function. foods that contain sericin
         protein ingredient such as Sausage appearance softsoft and the color is still fresh as if it were newly made,
@@ -99,6 +100,24 @@
         other proteins. </p>
     </div>
   </section>
+  <div class="relative w-full mx-auto overflow-hidden" id="section2">
+    <img src="../src/assets/img5.jpg" alt="Model" class="w-full h-full object-cover" />
+    <!-- กล่องข้อความอยู่ตรงกลางภาพ -->
+    <div class="absolute inset-0 flex flex-col items-end justify-center p-6 text-black text-right container mx-auto">
+      <h1 class="text-sm font-medium md:text-base lg:text-2xl xl:text-4xl">Silk Sericin Dry Powder Extract</h1>
+      <p
+        class="text-[6px] leading-relaxed max-w-[250px] md:max-w-[480px] md:text-xs lg:text-base lg:max-w-[650px] xl:text-xl xl:max-w-[1100px]">
+        Pure  Silk
+
+        sericin protein extract the natural golden silk cocoon powder type. It's an ingredient to be into production
+        cosmetics , skincare , medical , treatments and spa etc.
+
+        our silk sericin protein extract product It is not extracted from boiled cocoon water in the weaving industry.
+        our production process is a natural extraction that is chemical-free and does not harm the chrysalis inside the
+        cocoon , no other ingredients ,concentration and pure silk 100% . we open off the cocoons and remove the pupa so
+        that it turns into a butterfly following the insect life cycle </p>
+    </div>
+  </div>
   <section class="flex flex-col items-center p-5 container mx-auto" id="section4">
     <h2 class="text-sm font-medium md:text-base lg:text-2xl xl:text-4xl">Who are we?</h2>
     <p
@@ -146,7 +165,8 @@
         </div>
       </div>
       <div class="mt-2 py-5"> <button type="submit"
-          class="block w-full rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Send Message</button>
+          class="block w-full rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Send
+          Message</button>
       </div>
     </form>
   </div>
